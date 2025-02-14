@@ -1,4 +1,4 @@
-# English_words
+# english-words
 10k+ English words from w3schools. Sorted by number of repetitions.
 * The file contains programming terms!
 
